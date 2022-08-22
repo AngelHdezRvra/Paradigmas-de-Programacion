@@ -1,0 +1,26 @@
+================================================================================
+                              Manual de git/GitHub
+================================================================================
+
+-Entrar a su cuenta en github.com
+
+-Crear un repositorio "Paradigmas de Programacion"
+
+Terminal
+
+-Clonar el respositorio: git clone ___________________
+                                   URL del repositorio
+
+-Subir al directorio del repositorio y crear o copiar el archivo que vamos a 
+ subir a la nube.
+
+-Añadir: git add _______
+                 archivo
+
+-Descripcion: git commit -m "Manual UNIX/VI/GIT"
+
+-Subirlo: git push
+
+*Password es un TOKEN de GitHub
+
+================================================================================
